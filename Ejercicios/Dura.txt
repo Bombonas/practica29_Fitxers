@@ -1,5 +1,5 @@
-ANTON | Antonio Moreno Taqueria | Mataderos  2312 | Mexico D.F.
-AROUT | Around the Horn | 120 Hanover Sq. | Londres
-BURGS | Berglunds snabbkop | Berguvsvagen 8 | Lulea
-BLAUS | Blauer See Delikatessen | Forsterstr. 57 | Mannheim
-BVBEV | BVs Beverages | Fauntleroy Circus | Londres
+ANTON Antonio Moreno Taqueria        Mataderos  2312                  Mexico D.F.
+AROUT Around the Horn                120 Hanover Sq.                  Londres
+BURGS Berglunds snabbkop             Berguvsvagen 8                   Lulea
+BLAUS Blauer See Delikatessen        Forsterstr. 57                   Mannheim
+BVBEV BVs Beverages                  Fauntleroy Circus                Londres

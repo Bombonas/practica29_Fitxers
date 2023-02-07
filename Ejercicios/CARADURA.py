@@ -15,7 +15,7 @@ def ord_dict(dic):
 def save_data(file, dic, list):
     f = open(file, "w")
     for id in list:
-        txt = id + " | " + dic[id]["company"] + " | " + dic[id]["direction"] + " | " + dic[id]["city"] + "\n"
+        txt = id + dic[id]["company"]+ dic[id]["direction"] + dic[id]["city"] + "\n"
         f.write(txt)
     f.close()
 def load_data(file, dic):
@@ -23,9 +23,8 @@ def load_data(file, dic):
     lines = f.readlines()
     f.close()
     for line in lines:
-        values = line.split(" | ")
-        dic_aux = {"company": values[1], "direction": values[2], "city": values[3][:-1]}
-        dic.update({values[0]: dic_aux})
+        dic_aux = {"company": line[6:37], "direction": line[37:68], "city": line[68:-1]}
+        dic.update({line[:6]: dic_aux})
 
 dict_total = {}
 load_data("Cara.txt", dict_total)

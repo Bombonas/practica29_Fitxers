@@ -1,9 +1,9 @@
-ALFKI | Alfredo Futterkiste | Obere Str. 57 | Berlin
-ANATR | Ana Trujillo Emparedados | Avda. de la Constitución 2222 | Mexico D.F.
-ANTON | Antonio Moreno Taqueria | Mataderos  2312 | Mexico D.F.
-AROUT | Around the Horn | 120 Hanover Sq. | Londres
-BURGS | Berglunds snabbkop | Berguvsvagen 8 | Lulea
-BLAUS | Blauer See Delikatessen | Forsterstr. 57 | Mannheim
-BLONP | Blondel pere et fils | 24, place Kleber | Estrasburgo
-BOLID | Bolido Comidas preparadas | C/ Araquil, 67 | Madri
-BVBEV | BVs Beverages | Fauntleroy Circus | Londre
+ALFKI Alfredo Futterkiste            Obere Str. 57                    Berlin
+ANATR Ana Trujillo Emparedados       Avda. de la Constitución 2222    Mexico D.F.
+ANTON Antonio Moreno Taqueria        Mataderos  2312                  Mexico D.F.
+AROUT Around the Horn                120 Hanover Sq.                  Londres
+BURGS Berglunds snabbkop             Berguvsvagen 8                   Lulea
+BLAUS Blauer See Delikatessen        Forsterstr. 57                   Mannheim
+BLONP Blondel pere et fils           24, place Kleber                 Estrasburgo
+BOLID Bolido Comidas preparadas      C/ Araquil, 67                   Madri
+BVBEV BVs Beverages                  Fauntleroy Circus                Londre
